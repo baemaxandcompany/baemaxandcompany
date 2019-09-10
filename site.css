@@ -259,6 +259,7 @@ footer p {
 .square-img {
     width: 20%;
     margin-left: 15px;
+    /* border-radius: 30%; */
 }
 
 .green {
@@ -302,4 +303,8 @@ footer p {
 
 #goals {
     width: 60%;
+}
+
+#bloomington-square {
+    width: 100%;
 }

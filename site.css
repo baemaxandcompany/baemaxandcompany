@@ -3,7 +3,6 @@ body {
     font-family: Lato, Arial, sans-serif;
     font-size: 17px;
     height:100%;
-    /* background-color: #FF9F45; */
 }
 
 main {
@@ -86,7 +85,7 @@ a {
     margin-bottom: 2px;
     /* padding-top: 20px; */
     color: #273c48;
-    font-size: 26px;
+    font-size: 28px;
     line-height: 33px;
     font-weight: 200;
     letter-spacing: .2em;
@@ -263,8 +262,16 @@ footer p {
 }
 
 .green {
-    color: green;
+    color: #00B700;
     font-weight: 600;
+    letter-spacing: .1em;
+    /* font-size: 20px; */
+}
+
+.greenyellow {
+    color: greenyellow;
+    font-weight: 600;
+    letter-spacing: .1em;
 }
 
 #iu_banner {
@@ -307,4 +314,18 @@ footer p {
 
 #bloomington-square {
     width: 100%;
+}
+
+.name {
+    padding: 5px;
+    color: #ffc40c;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-weight: 500;
+}
+
+.navy {
+    color: #2b2b2b;
+    font-weight: 600;
+    letter-spacing: 0.05em;
 }

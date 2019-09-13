@@ -348,3 +348,8 @@ footer p {
 #teamAnalysis {
     padding-top: 50px;
 }
+
+.containerPadding {
+    padding-left: 70px;
+    padding-right: 70px;
+}
